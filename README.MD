@@ -1,4 +1,10 @@
-## Typescript
+## Polymesh bot
+
+<video src="./Capture.mp4" width="320" controls>
+  Your browser does not support the video tag.
+</video>
+
+## Setup
 
 
 1. Node.js
@@ -21,7 +27,7 @@
 
 3. Navigate into the project directory and then install dependencies.
    ```
-   npm install
+   yarn install
    ```
 
 
