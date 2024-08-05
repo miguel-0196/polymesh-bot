@@ -1,0 +1,13 @@
+{
+  "name": "polyx-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "main": "ts-node index.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@polymeshassociation/local-signing-manager": "^3.3.0",
+    "@polymeshassociation/polymesh-sdk": "^24.6.0",
+    "dotenv": "^16.4.5"
+  }
+}
