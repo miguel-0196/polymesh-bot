@@ -28,5 +28,5 @@
 4. Run the app:
 
    ```bash
-   npm run main
+   npm run
    ```
