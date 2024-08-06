@@ -1,11 +1,8 @@
 ## Polymesh bot
 
-<video src="./Capture.mp4" width="320" controls>
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](Capture.jpg)](Capture.mp4)
 
 ## Setup
-
 
 1. Node.js
 
